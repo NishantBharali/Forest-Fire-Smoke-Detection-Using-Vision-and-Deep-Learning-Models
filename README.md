@@ -5,6 +5,11 @@
 <img src='./Miscellaneous/firefighter.jpg' width='1000'/>
 </p>
 
+**Important steps to remember:**
+
+**1. Download the model: ssd mobilenet v2 and faster_rcnn_resnet101_kitti**
+**2. Download tfrecords from Google Storage**
+
 ## 📖 **About**
 When dealing with wildfires, especially forest wildfires, the response time on the part of firefighters is crucial. If it is possible, it is better to stop a fire in its birth, so as to avoid damage and waste of resources. For this reason, this project comes with the intention of creating an AI model (applied to Computer Vision) that can detect and identify smoke from a rising wildfire.
 
