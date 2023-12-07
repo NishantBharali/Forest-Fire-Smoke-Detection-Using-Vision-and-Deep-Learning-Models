@@ -1,0 +1,8 @@
+.DS_Store
+*/.DS_Store
+/logs
+.vscode
+output
+training
+*.record
+inference_graph/
