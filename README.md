@@ -8,6 +8,7 @@
 # **Important steps to remember:**
 
 **1. Download the model: ssd mobilenet v2 and faster_rcnn_resnet101_kitti**
+
 **2. Download tfrecords from Google Storage**
 
 ## 📖 **About**
