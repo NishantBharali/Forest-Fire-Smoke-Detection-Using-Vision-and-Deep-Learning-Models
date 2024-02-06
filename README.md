@@ -1,5 +1,5 @@
 # **Forest Fire Detection System using Computer Vision and Deep Learning**
-`PyTorch` approach to object detection of wildifre smoke with Faster R-CNN inception v2 and SSD Mobilenet v2 Models and detailed comparative analysis between each other
+`PyTorch` approach to object detection of wildfire smoke with Faster R-CNN inception v2 and SSD Mobilenet v2 Models and detailed comparative analysis between each other
 
 <p align="center">
 <img src='./Miscellaneous/firefighter.jpg' width='1000'/>
